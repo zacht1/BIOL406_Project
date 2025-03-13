@@ -1,3 +1,1 @@
-# CyanoSensing – Remote Sensing of Cyanobacteria in BC Lakes
-
-This project provides an overview of methods for remote sensing of chlorophyll-a and cyanobacteria in British Columbia Lakes. Included in this project are helper functions for fetching satellite imagery from Sentinel-2 and Sentinel-3 missions, algorithms for detecting chlorophyll-a and cyanobacteria, and scripts for validating algorithms and building linear models for BC lakes.
+# BIOL 406 Final Project
