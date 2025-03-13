@@ -1,0 +1,17 @@
+Plot,Forest Type,English Holly,English Ivy,Trailing Blackberry,Spiny Wood Fern,Salal,Wall Lettuce,Sword Fern,Deer Fern,Huckleberry,Species 2,Sugar-scoop,Salmon Berry,Alderberry,Herb Robert,Large-leaved avens,Creeping buttercup,Oregon grape,Common snowberry,Tall Fescue,Cherry Laurel,Moss Cover (%),Canopy cover (%),Sample 1 pH,Sample 2 pH,Sample 3 pH,Site Characteristics
+Holly 1,Coniferus,12,0,8,28,4,1,0,6,2,3,0,0,0,0,0,0,0,0,0,0,9,95,,,,"Damp environment, quarter of plot slightly elevated (no Holly contained there)."
+Holly Control 1,Coniferus,0,0,35,7,10,3,0,15,2,35,0,0,0,0,0,0,0,0,0,0,15,90,,,,"Damp environment, relatively flat – slightly elevated in middle."
+Holly 2,Coniferus,6,0,25,10,5,8,0,0,8,25,4,0,0,0,0,0,0,0,0,0,90,10,,,,"Damp environment, flat."
+Holly Control 2,Coniferus,0,0,20,30,0,0,1,0,3,0,3,0,0,0,0,0,0,0,0,0,60,25,,,,"Damp environment, flat."
+Holly 3,Deciduous,10,0,10,0,0,0,40,0,0,0,0,50,0,3,0,0,10,0,0,3,20,10,,,,"Gradual slope, low side South. Creek directly next to site. Raining day of data collection."
+Holly 3 Control,Deciduous,0,0,30,0,0,0,5,0,0,0,0,60,0,5,0,0,0,0,0,0,60,5,,,,Flat. Standing water directly next to site. Raining day of data collection.
+Holly 4,Deciduous,3,0,0,15,0,0,2,0,1,0,0,3,0,0,0,0,0,0,0,0,50,NA,6.5,6.0,6.0,High precipitation during data collection. Moist environment. Some standing water in site.
+Holly 4 Control,Deciduous,0,0,2,0,0,0,12,0,0,0,5,30,0,0,0,0,0,0,0,0,10,NA,NA,6.0,6.0,High precipitation during data collection. Moist environment.
+Ivy 1,Coniferus,0,4,1,30,0,5,3,0,3,0,15,1,0,0,0,0,0,0,0,0,90,95,6.0,5.5,6.0,Flat. Damp environment.
+Ivy Control 1,Coniferus,0,0,5,20,0,1,0,0,2,0,4,0,0,0,0,0,0,0,0,0,40,100,6.0,NA,NA,Flat. Moist environment. Many red cedar and hemlock samplings. Large sum covering a quarter of quadrat.
+Ivy 2,Coniferus,0,45,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,100,,,,Flat. Gradual slope with low side east.
+Ivy Control 2,Coniferus,0,0,60,12,0,1,18,0,0,0,0,1,1,0,0,0,0,0,0,0,95,85,6.0,6.0,6.0,Completely flat.
+Ivy 3,Deciduous,0,30,40,0,0,0,0,0,0,0,0,0,0,1,4,75,0,0,0,0,35,5,6.5,6.5,6.5,Flat area. Within 10 meters of trail.
+Ivy Control 3,Deciduous,0,0,50,0,0,0,0,0,0,0,0,25,0,12,0,20,0,0,0,0,25,5,6.0,6.5,6.0,Flat area. Large tree stump in middle of plot. Many fallen tree branches.
+Ivy 4,Deciduous,0,90,5,0,0,0,25,0,0,0,0,0,0,1,0,0,0,0,0,0,3,15,,,,"Slight slope, elevated North."
+Ivy Control 4,Deciduous,0,0,40,0,0,0,40,0,0,0,0,15,0,5,0,0,10,5,2,7,20,10,,,,"Gradual slop, higher South."
