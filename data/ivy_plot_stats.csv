@@ -1,0 +1,9 @@
+Plot,Forest Type,English Holly,English Ivy,Trailing Blackberry,Spiny Wood Fern,Salal,Wall Lettuce,Sword Fern,Deer Fern,Huckleberry,Species 2,Sugar-scoop,Salmon Berry,Alderberry,Herb Robert,Large-leaved avens,Creeping buttercup,Oregon grape,Common snowberry,Tall Fescue,Cherry Laurel,Mosses,Canopy cover (%),Sample 1 pH,Sample 2 pH,Sample 3 pH,Site Characteristics,Species Richness,Mean Percent Cover,Standard Deviation of Percent Cover,Shannon Diversity Index,Mean pH
+Ivy 1,Coniferus,0,4,1,30,0,5,3,0,3,0,15,1,0,0,0,0,0,0,0,0,90,95,6,5.5,6,Flat. Damp environment.,8,7.75,10.039208847599213,1.5006712365764376,5.833333333333333
+Ivy 1 Control,Coniferus,0,0,5,20,0,1,0,0,2,0,4,0,0,0,0,0,0,0,0,0,40,100,6,NA,NA,Flat. Moist environment. Many red cedar and hemlock samplings. Large sum covering a quarter of quadrat.,5,6.4,7.76530746332687,1.125320064085671,6
+Ivy 2,Coniferus,0,45,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,100,NA,NA,NA,Flat. Gradual slope with low side east.,3,16.666666666666668,24.583192089989726,0.375123215745267,NA
+Ivy 2 Control,Coniferus,0,0,60,12,0,1,18,0,0,0,0,1,1,0,0,0,0,0,0,0,95,85,6,6,6,Completely flat.,6,15.5,22.932509675131502,1.0110269644122558,6
+Ivy 3,Deciduous,0,30,40,0,0,0,0,0,0,0,0,0,0,1,4,75,0,0,0,0,35,5,6.5,6.5,6.5,Flat area. Within 10 meters of trail.,5,30,30.174492539229224,1.1509827236020893,6.5
+Ivy 3 Control,Deciduous,0,0,50,0,0,0,0,0,0,0,0,25,0,12,0,20,0,0,0,0,25,5,6,6.5,6,Flat area. Large tree stump in middle of plot. Many fallen tree branches.,4,26.75,16.39867880857073,1.2540758329511759,6.166666666666667
+Ivy 4,Deciduous,0,90,5,0,0,0,25,0,0,0,0,0,0,1,0,0,0,0,0,0,3,15,6.5,6.5,7,"Slight slope, elevated North.",4,30.25,41.19364837771312,0.71726198763311,6.666666666666667
+Ivy 4 Control,Deciduous,0,0,40,0,0,0,40,0,0,0,0,15,0,5,0,0,10,5,2,7,20,10,7,6.5,7,"Gradual slop, higher South.",8,15.5,15.611351181569317,1.6762573333111932,6.833333333333333
