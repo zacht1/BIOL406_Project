@@ -1,3 +1,10 @@
+## ======================================================================== ##
+# Cleaning, re-formatting and generating summary statistics for raw field data.
+# Generates and writes four .csv files to ./data
+#
+# Date : March 13, 2025
+# Persons most responsible : Zach Taylor
+## ======================================================================== ##
 library(tidyverse)
 library(readr)
 library(here)
