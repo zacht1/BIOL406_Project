@@ -1,0 +1,169 @@
+plot_id,forest_type,species,percent_cover
+Holly 1,Coniferus,english_holly,12
+Holly 1,Coniferus,english_ivy,0
+Holly 1,Coniferus,trailing_blackberry,8
+Holly 1,Coniferus,spiny_wood_fern,28
+Holly 1,Coniferus,salal,4
+Holly 1,Coniferus,wall_lettuce,1
+Holly 1,Coniferus,sword_fern,0
+Holly 1,Coniferus,deer_fern,6
+Holly 1,Coniferus,huckleberry,2
+Holly 1,Coniferus,species2,3
+Holly 1,Coniferus,sugar_scoop,0
+Holly 1,Coniferus,salmon_berry,0
+Holly 1,Coniferus,alderberry,0
+Holly 1,Coniferus,herb_robert,0
+Holly 1,Coniferus,large_leaved_avens,0
+Holly 1,Coniferus,creeping_buttercup,0
+Holly 1,Coniferus,oregon_grape,0
+Holly 1,Coniferus,common_snowberry,0
+Holly 1,Coniferus,tall_fescue,0
+Holly 1,Coniferus,cherry_laurel,0
+Holly 1,Coniferus,mosses,9
+Holly 1 Control,Coniferus,english_holly,0
+Holly 1 Control,Coniferus,english_ivy,0
+Holly 1 Control,Coniferus,trailing_blackberry,35
+Holly 1 Control,Coniferus,spiny_wood_fern,7
+Holly 1 Control,Coniferus,salal,10
+Holly 1 Control,Coniferus,wall_lettuce,3
+Holly 1 Control,Coniferus,sword_fern,0
+Holly 1 Control,Coniferus,deer_fern,15
+Holly 1 Control,Coniferus,huckleberry,2
+Holly 1 Control,Coniferus,species2,35
+Holly 1 Control,Coniferus,sugar_scoop,0
+Holly 1 Control,Coniferus,salmon_berry,0
+Holly 1 Control,Coniferus,alderberry,0
+Holly 1 Control,Coniferus,herb_robert,0
+Holly 1 Control,Coniferus,large_leaved_avens,0
+Holly 1 Control,Coniferus,creeping_buttercup,0
+Holly 1 Control,Coniferus,oregon_grape,0
+Holly 1 Control,Coniferus,common_snowberry,0
+Holly 1 Control,Coniferus,tall_fescue,0
+Holly 1 Control,Coniferus,cherry_laurel,0
+Holly 1 Control,Coniferus,mosses,15
+Holly 2,Coniferus,english_holly,6
+Holly 2,Coniferus,english_ivy,0
+Holly 2,Coniferus,trailing_blackberry,25
+Holly 2,Coniferus,spiny_wood_fern,10
+Holly 2,Coniferus,salal,5
+Holly 2,Coniferus,wall_lettuce,8
+Holly 2,Coniferus,sword_fern,0
+Holly 2,Coniferus,deer_fern,0
+Holly 2,Coniferus,huckleberry,8
+Holly 2,Coniferus,species2,25
+Holly 2,Coniferus,sugar_scoop,4
+Holly 2,Coniferus,salmon_berry,0
+Holly 2,Coniferus,alderberry,0
+Holly 2,Coniferus,herb_robert,0
+Holly 2,Coniferus,large_leaved_avens,0
+Holly 2,Coniferus,creeping_buttercup,0
+Holly 2,Coniferus,oregon_grape,0
+Holly 2,Coniferus,common_snowberry,0
+Holly 2,Coniferus,tall_fescue,0
+Holly 2,Coniferus,cherry_laurel,0
+Holly 2,Coniferus,mosses,90
+Holly 2 Control,Coniferus,english_holly,0
+Holly 2 Control,Coniferus,english_ivy,0
+Holly 2 Control,Coniferus,trailing_blackberry,20
+Holly 2 Control,Coniferus,spiny_wood_fern,30
+Holly 2 Control,Coniferus,salal,0
+Holly 2 Control,Coniferus,wall_lettuce,0
+Holly 2 Control,Coniferus,sword_fern,1
+Holly 2 Control,Coniferus,deer_fern,0
+Holly 2 Control,Coniferus,huckleberry,3
+Holly 2 Control,Coniferus,species2,0
+Holly 2 Control,Coniferus,sugar_scoop,3
+Holly 2 Control,Coniferus,salmon_berry,0
+Holly 2 Control,Coniferus,alderberry,0
+Holly 2 Control,Coniferus,herb_robert,0
+Holly 2 Control,Coniferus,large_leaved_avens,0
+Holly 2 Control,Coniferus,creeping_buttercup,0
+Holly 2 Control,Coniferus,oregon_grape,0
+Holly 2 Control,Coniferus,common_snowberry,0
+Holly 2 Control,Coniferus,tall_fescue,0
+Holly 2 Control,Coniferus,cherry_laurel,0
+Holly 2 Control,Coniferus,mosses,60
+Holly 3,Deciduous,english_holly,10
+Holly 3,Deciduous,english_ivy,0
+Holly 3,Deciduous,trailing_blackberry,10
+Holly 3,Deciduous,spiny_wood_fern,0
+Holly 3,Deciduous,salal,0
+Holly 3,Deciduous,wall_lettuce,0
+Holly 3,Deciduous,sword_fern,40
+Holly 3,Deciduous,deer_fern,0
+Holly 3,Deciduous,huckleberry,0
+Holly 3,Deciduous,species2,0
+Holly 3,Deciduous,sugar_scoop,0
+Holly 3,Deciduous,salmon_berry,50
+Holly 3,Deciduous,alderberry,0
+Holly 3,Deciduous,herb_robert,3
+Holly 3,Deciduous,large_leaved_avens,0
+Holly 3,Deciduous,creeping_buttercup,0
+Holly 3,Deciduous,oregon_grape,10
+Holly 3,Deciduous,common_snowberry,0
+Holly 3,Deciduous,tall_fescue,0
+Holly 3,Deciduous,cherry_laurel,3
+Holly 3,Deciduous,mosses,20
+Holly 3 Control,Deciduous,english_holly,0
+Holly 3 Control,Deciduous,english_ivy,0
+Holly 3 Control,Deciduous,trailing_blackberry,30
+Holly 3 Control,Deciduous,spiny_wood_fern,0
+Holly 3 Control,Deciduous,salal,0
+Holly 3 Control,Deciduous,wall_lettuce,0
+Holly 3 Control,Deciduous,sword_fern,5
+Holly 3 Control,Deciduous,deer_fern,0
+Holly 3 Control,Deciduous,huckleberry,0
+Holly 3 Control,Deciduous,species2,0
+Holly 3 Control,Deciduous,sugar_scoop,0
+Holly 3 Control,Deciduous,salmon_berry,60
+Holly 3 Control,Deciduous,alderberry,0
+Holly 3 Control,Deciduous,herb_robert,5
+Holly 3 Control,Deciduous,large_leaved_avens,0
+Holly 3 Control,Deciduous,creeping_buttercup,0
+Holly 3 Control,Deciduous,oregon_grape,0
+Holly 3 Control,Deciduous,common_snowberry,0
+Holly 3 Control,Deciduous,tall_fescue,0
+Holly 3 Control,Deciduous,cherry_laurel,0
+Holly 3 Control,Deciduous,mosses,60
+Holly 4,Deciduous,english_holly,3
+Holly 4,Deciduous,english_ivy,0
+Holly 4,Deciduous,trailing_blackberry,0
+Holly 4,Deciduous,spiny_wood_fern,15
+Holly 4,Deciduous,salal,0
+Holly 4,Deciduous,wall_lettuce,0
+Holly 4,Deciduous,sword_fern,2
+Holly 4,Deciduous,deer_fern,0
+Holly 4,Deciduous,huckleberry,1
+Holly 4,Deciduous,species2,0
+Holly 4,Deciduous,sugar_scoop,0
+Holly 4,Deciduous,salmon_berry,3
+Holly 4,Deciduous,alderberry,0
+Holly 4,Deciduous,herb_robert,0
+Holly 4,Deciduous,large_leaved_avens,0
+Holly 4,Deciduous,creeping_buttercup,0
+Holly 4,Deciduous,oregon_grape,0
+Holly 4,Deciduous,common_snowberry,0
+Holly 4,Deciduous,tall_fescue,0
+Holly 4,Deciduous,cherry_laurel,0
+Holly 4,Deciduous,mosses,50
+Holly 4 Control,Deciduous,english_holly,0
+Holly 4 Control,Deciduous,english_ivy,0
+Holly 4 Control,Deciduous,trailing_blackberry,2
+Holly 4 Control,Deciduous,spiny_wood_fern,0
+Holly 4 Control,Deciduous,salal,0
+Holly 4 Control,Deciduous,wall_lettuce,0
+Holly 4 Control,Deciduous,sword_fern,12
+Holly 4 Control,Deciduous,deer_fern,0
+Holly 4 Control,Deciduous,huckleberry,0
+Holly 4 Control,Deciduous,species2,0
+Holly 4 Control,Deciduous,sugar_scoop,5
+Holly 4 Control,Deciduous,salmon_berry,30
+Holly 4 Control,Deciduous,alderberry,0
+Holly 4 Control,Deciduous,herb_robert,0
+Holly 4 Control,Deciduous,large_leaved_avens,0
+Holly 4 Control,Deciduous,creeping_buttercup,0
+Holly 4 Control,Deciduous,oregon_grape,0
+Holly 4 Control,Deciduous,common_snowberry,0
+Holly 4 Control,Deciduous,tall_fescue,0
+Holly 4 Control,Deciduous,cherry_laurel,0
+Holly 4 Control,Deciduous,mosses,10

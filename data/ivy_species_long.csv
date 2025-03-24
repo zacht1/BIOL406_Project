@@ -1,0 +1,169 @@
+plot_id,forest_type,species,percent_cover
+Ivy 1,Coniferus,english_holly,0
+Ivy 1,Coniferus,english_ivy,4
+Ivy 1,Coniferus,trailing_blackberry,1
+Ivy 1,Coniferus,spiny_wood_fern,30
+Ivy 1,Coniferus,salal,0
+Ivy 1,Coniferus,wall_lettuce,5
+Ivy 1,Coniferus,sword_fern,3
+Ivy 1,Coniferus,deer_fern,0
+Ivy 1,Coniferus,huckleberry,3
+Ivy 1,Coniferus,species2,0
+Ivy 1,Coniferus,sugar_scoop,15
+Ivy 1,Coniferus,salmon_berry,1
+Ivy 1,Coniferus,alderberry,0
+Ivy 1,Coniferus,herb_robert,0
+Ivy 1,Coniferus,large_leaved_avens,0
+Ivy 1,Coniferus,creeping_buttercup,0
+Ivy 1,Coniferus,oregon_grape,0
+Ivy 1,Coniferus,common_snowberry,0
+Ivy 1,Coniferus,tall_fescue,0
+Ivy 1,Coniferus,cherry_laurel,0
+Ivy 1,Coniferus,mosses,90
+Ivy 1 Control,Coniferus,english_holly,0
+Ivy 1 Control,Coniferus,english_ivy,0
+Ivy 1 Control,Coniferus,trailing_blackberry,5
+Ivy 1 Control,Coniferus,spiny_wood_fern,20
+Ivy 1 Control,Coniferus,salal,0
+Ivy 1 Control,Coniferus,wall_lettuce,1
+Ivy 1 Control,Coniferus,sword_fern,0
+Ivy 1 Control,Coniferus,deer_fern,0
+Ivy 1 Control,Coniferus,huckleberry,2
+Ivy 1 Control,Coniferus,species2,0
+Ivy 1 Control,Coniferus,sugar_scoop,4
+Ivy 1 Control,Coniferus,salmon_berry,0
+Ivy 1 Control,Coniferus,alderberry,0
+Ivy 1 Control,Coniferus,herb_robert,0
+Ivy 1 Control,Coniferus,large_leaved_avens,0
+Ivy 1 Control,Coniferus,creeping_buttercup,0
+Ivy 1 Control,Coniferus,oregon_grape,0
+Ivy 1 Control,Coniferus,common_snowberry,0
+Ivy 1 Control,Coniferus,tall_fescue,0
+Ivy 1 Control,Coniferus,cherry_laurel,0
+Ivy 1 Control,Coniferus,mosses,40
+Ivy 2,Coniferus,english_holly,0
+Ivy 2,Coniferus,english_ivy,45
+Ivy 2,Coniferus,trailing_blackberry,4
+Ivy 2,Coniferus,spiny_wood_fern,0
+Ivy 2,Coniferus,salal,1
+Ivy 2,Coniferus,wall_lettuce,0
+Ivy 2,Coniferus,sword_fern,0
+Ivy 2,Coniferus,deer_fern,0
+Ivy 2,Coniferus,huckleberry,0
+Ivy 2,Coniferus,species2,0
+Ivy 2,Coniferus,sugar_scoop,0
+Ivy 2,Coniferus,salmon_berry,0
+Ivy 2,Coniferus,alderberry,0
+Ivy 2,Coniferus,herb_robert,0
+Ivy 2,Coniferus,large_leaved_avens,0
+Ivy 2,Coniferus,creeping_buttercup,0
+Ivy 2,Coniferus,oregon_grape,0
+Ivy 2,Coniferus,common_snowberry,0
+Ivy 2,Coniferus,tall_fescue,0
+Ivy 2,Coniferus,cherry_laurel,0
+Ivy 2,Coniferus,mosses,8
+Ivy 2 Control,Coniferus,english_holly,0
+Ivy 2 Control,Coniferus,english_ivy,0
+Ivy 2 Control,Coniferus,trailing_blackberry,60
+Ivy 2 Control,Coniferus,spiny_wood_fern,12
+Ivy 2 Control,Coniferus,salal,0
+Ivy 2 Control,Coniferus,wall_lettuce,1
+Ivy 2 Control,Coniferus,sword_fern,18
+Ivy 2 Control,Coniferus,deer_fern,0
+Ivy 2 Control,Coniferus,huckleberry,0
+Ivy 2 Control,Coniferus,species2,0
+Ivy 2 Control,Coniferus,sugar_scoop,0
+Ivy 2 Control,Coniferus,salmon_berry,1
+Ivy 2 Control,Coniferus,alderberry,1
+Ivy 2 Control,Coniferus,herb_robert,0
+Ivy 2 Control,Coniferus,large_leaved_avens,0
+Ivy 2 Control,Coniferus,creeping_buttercup,0
+Ivy 2 Control,Coniferus,oregon_grape,0
+Ivy 2 Control,Coniferus,common_snowberry,0
+Ivy 2 Control,Coniferus,tall_fescue,0
+Ivy 2 Control,Coniferus,cherry_laurel,0
+Ivy 2 Control,Coniferus,mosses,95
+Ivy 3,Deciduous,english_holly,0
+Ivy 3,Deciduous,english_ivy,30
+Ivy 3,Deciduous,trailing_blackberry,40
+Ivy 3,Deciduous,spiny_wood_fern,0
+Ivy 3,Deciduous,salal,0
+Ivy 3,Deciduous,wall_lettuce,0
+Ivy 3,Deciduous,sword_fern,0
+Ivy 3,Deciduous,deer_fern,0
+Ivy 3,Deciduous,huckleberry,0
+Ivy 3,Deciduous,species2,0
+Ivy 3,Deciduous,sugar_scoop,0
+Ivy 3,Deciduous,salmon_berry,0
+Ivy 3,Deciduous,alderberry,0
+Ivy 3,Deciduous,herb_robert,1
+Ivy 3,Deciduous,large_leaved_avens,4
+Ivy 3,Deciduous,creeping_buttercup,75
+Ivy 3,Deciduous,oregon_grape,0
+Ivy 3,Deciduous,common_snowberry,0
+Ivy 3,Deciduous,tall_fescue,0
+Ivy 3,Deciduous,cherry_laurel,0
+Ivy 3,Deciduous,mosses,35
+Ivy 3 Control,Deciduous,english_holly,0
+Ivy 3 Control,Deciduous,english_ivy,0
+Ivy 3 Control,Deciduous,trailing_blackberry,50
+Ivy 3 Control,Deciduous,spiny_wood_fern,0
+Ivy 3 Control,Deciduous,salal,0
+Ivy 3 Control,Deciduous,wall_lettuce,0
+Ivy 3 Control,Deciduous,sword_fern,0
+Ivy 3 Control,Deciduous,deer_fern,0
+Ivy 3 Control,Deciduous,huckleberry,0
+Ivy 3 Control,Deciduous,species2,0
+Ivy 3 Control,Deciduous,sugar_scoop,0
+Ivy 3 Control,Deciduous,salmon_berry,25
+Ivy 3 Control,Deciduous,alderberry,0
+Ivy 3 Control,Deciduous,herb_robert,12
+Ivy 3 Control,Deciduous,large_leaved_avens,0
+Ivy 3 Control,Deciduous,creeping_buttercup,20
+Ivy 3 Control,Deciduous,oregon_grape,0
+Ivy 3 Control,Deciduous,common_snowberry,0
+Ivy 3 Control,Deciduous,tall_fescue,0
+Ivy 3 Control,Deciduous,cherry_laurel,0
+Ivy 3 Control,Deciduous,mosses,25
+Ivy 4,Deciduous,english_holly,0
+Ivy 4,Deciduous,english_ivy,90
+Ivy 4,Deciduous,trailing_blackberry,5
+Ivy 4,Deciduous,spiny_wood_fern,0
+Ivy 4,Deciduous,salal,0
+Ivy 4,Deciduous,wall_lettuce,0
+Ivy 4,Deciduous,sword_fern,25
+Ivy 4,Deciduous,deer_fern,0
+Ivy 4,Deciduous,huckleberry,0
+Ivy 4,Deciduous,species2,0
+Ivy 4,Deciduous,sugar_scoop,0
+Ivy 4,Deciduous,salmon_berry,0
+Ivy 4,Deciduous,alderberry,0
+Ivy 4,Deciduous,herb_robert,1
+Ivy 4,Deciduous,large_leaved_avens,0
+Ivy 4,Deciduous,creeping_buttercup,0
+Ivy 4,Deciduous,oregon_grape,0
+Ivy 4,Deciduous,common_snowberry,0
+Ivy 4,Deciduous,tall_fescue,0
+Ivy 4,Deciduous,cherry_laurel,0
+Ivy 4,Deciduous,mosses,3
+Ivy 4 Control,Deciduous,english_holly,0
+Ivy 4 Control,Deciduous,english_ivy,0
+Ivy 4 Control,Deciduous,trailing_blackberry,40
+Ivy 4 Control,Deciduous,spiny_wood_fern,0
+Ivy 4 Control,Deciduous,salal,0
+Ivy 4 Control,Deciduous,wall_lettuce,0
+Ivy 4 Control,Deciduous,sword_fern,40
+Ivy 4 Control,Deciduous,deer_fern,0
+Ivy 4 Control,Deciduous,huckleberry,0
+Ivy 4 Control,Deciduous,species2,0
+Ivy 4 Control,Deciduous,sugar_scoop,0
+Ivy 4 Control,Deciduous,salmon_berry,15
+Ivy 4 Control,Deciduous,alderberry,0
+Ivy 4 Control,Deciduous,herb_robert,5
+Ivy 4 Control,Deciduous,large_leaved_avens,0
+Ivy 4 Control,Deciduous,creeping_buttercup,0
+Ivy 4 Control,Deciduous,oregon_grape,10
+Ivy 4 Control,Deciduous,common_snowberry,5
+Ivy 4 Control,Deciduous,tall_fescue,2
+Ivy 4 Control,Deciduous,cherry_laurel,7
+Ivy 4 Control,Deciduous,mosses,20
